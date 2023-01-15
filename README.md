@@ -8,4 +8,4 @@ Great Refresher and Introduction.
 
 For begginer it is must to start to understand basics of SQL.
 
-Completed Jan 2023
+Completed OCT 2022.
