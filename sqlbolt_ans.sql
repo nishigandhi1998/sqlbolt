@@ -336,10 +336,11 @@ WHERE Director = "Andrew Stanton";
 -- 2. Version A number (floating point) of the latest version of this database
 -- 3. Download_count An integer count of the number of times this database was downloaded
 -- This table has no constraints.
-CREATE TABLE Database (
-    Name TEXT,
-    Version FLOAT,
-    Download_Count INTEGER);
+Create Table Database (
+    Name Text ,
+    Version Float,
+    Download_count Int
+);
     
 -- CH17 - Altering Tables
 
